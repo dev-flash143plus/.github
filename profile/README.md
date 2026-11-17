@@ -7,7 +7,7 @@
 
 Diese gibt es nur bei <img width="298" height="107" alt="logo_flash143plus_v10" src="https://github.com/user-attachments/assets/7dfec277-713a-4942-a372-8af79089fae7" />
 
-Die Windows App dient dabei zur Übertragung der Firmware auf den µController und zum erstellen und editieren der Geschwindigkeitsprofilen. Die Firmware ist kompatibel mit den digitalen Rennbahnen von Carrera®.[^1]
+Die Windows App dient dabei zur Übertragung der Firmware auf den µController und zum erstellen und editieren der Geschwindigkeitsprofile. Die Firmware ist kompatibel mit den digitalen Rennbahnen von Carrera®.[^1]
 
 ## Entwicklung
 
