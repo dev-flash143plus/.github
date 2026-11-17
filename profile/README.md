@@ -1,8 +1,8 @@
-<img src="images/start_pic_00.jpg" width="800" alt="flash143plus">
+<img width="948" height="106" alt="start_pic_00" src="https://github.com/user-attachments/assets/efb74d04-d14c-404e-b922-2e67a7affb60" />
 
 # flash143plus
 
-<img src="images/logo_flash143plus_v10.png" width="200" align="right" alt="flash143plus Logo">
+<img width="1191" height="427" alt="logo_flash143plus_v10" src="https://github.com/user-attachments/assets/7dfec277-713a-4942-a372-8af79089fae7" />
 
 **flash143plus**... ein echtes Firmware-Upgrade für den D143 Decoder. Endlich 100% Leistung und den Ghostcar-Modus, schaltbares Licht und individuelle Geschwindigkeitsprofilen.
 
