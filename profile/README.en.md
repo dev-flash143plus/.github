@@ -75,4 +75,18 @@ Modifying the ribbon cable is a simple way to create a suitable connector. Instr
 
 - [What are throttle curves and what can I do with them?](../docs/speed-curves.en.md)
 
+## Project Status
+
+**flash143plus is a completed project.**
+
+Development of the firmware and the associated Windows application is largely complete. No further active development is currently planned.
+
+This GitHub repository is intended to preserve the documentation of flash143plus and keep the results of this project accessible to interested Carrera enthusiasts and technically minded users.
+
+Transferring and organizing all existing information, documentation and materials into this repository will take some time. As a result, some information and content may not be available right away. The repository will be completed gradually.
+
+The existing software, firmware and documentation are intended to remain available and accessible for future reference.
+
+Many thanks to everyone who followed and supported this project and contributed ideas and suggestions along the way!
+
 [^1]: Carrera® is a registered brand name of Stadlbauer Marketing + Vertrieb Ges.m.b.H. <https://carrera-toys.com/about>
