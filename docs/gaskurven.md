@@ -1,3 +1,4 @@
+[🇩🇪 Deutsch](../gaskurven.md) | [🇬🇧 English](../en/speed-curves.md)
 # Was sind die Gaskurven und was kann ich damit machen?
 
 Ein Erfahrungsbericht von [go-digital-132](https://www.carrera-go.info/index.php?user/8085-go-digital-132/) aus dem carrera-go Forum. Vielen Dank dafür!
