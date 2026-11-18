@@ -1,6 +1,6 @@
 <img width="948" height="106" alt="start_pic_00" src="https://github.com/user-attachments/assets/efb74d04-d14c-404e-b922-2e67a7affb60" />
 
-
+[🇩🇪 Deutsch](README.md) | [🇬🇧 English](README.en.md)
 # flash143plus
 
 **flash143plus**... ein echtes Firmware-Upgrade für den D143 Decoder. Endlich 100% Leistung und den Ghostcar-Modus, schaltbares Licht und individuelle Geschwindigkeitsprofilen.
