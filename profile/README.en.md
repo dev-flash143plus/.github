@@ -73,6 +73,6 @@ Modifying the ribbon cable is a simple way to create a suitable connector. Instr
 
 ## Guides
 
-- [What are throttle curves and what can I do with them?](../docs/gaskurven_01.md)
+- [What are throttle curves and what can I do with them?](../docs/en/speed-curves.md)
 
 [^1]: Carrera® is a registered brand name of Stadlbauer Marketing + Vertrieb Ges.m.b.H. <https://carrera-toys.com/about>
