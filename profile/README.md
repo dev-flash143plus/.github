@@ -60,7 +60,7 @@ Ein ISP-Stecker (**I**n-**S**ystem-**P**rogrammierung) ermöglicht das programmi
 
 ## Anleitungen
 
-- [Was sind die Gaskurven und was kann ich damit machen?](../docs/gaskurven.md)
+- [Was sind die Gaskurven und was kann ich damit machen?](../docs/speed-curves.de.md)
 
 
 [^1]: Carrera® ist ein Markenname der Stadlbauer Marketing + Vertrieb Ges.m.b.H. <https://carrera-toys.com/about>
