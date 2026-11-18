@@ -62,5 +62,18 @@ Ein ISP-Stecker (**I**n-**S**ystem-**P**rogrammierung) ermöglicht das programmi
 
 - [Was sind die Gaskurven und was kann ich damit machen?](../docs/speed-curves.de.md)
 
+## Projektstatus
+
+**flash143plus ist ein abgeschlossenes Projekt.**
+
+Die Entwicklung der Firmware und der zugehörigen Windows-Anwendung ist weitgehend abgeschlossen. Eine aktive Weiterentwicklung ist derzeit nicht geplant.
+
+Dieses GitHub-Repository dient dazu, flash143plus dauerhaft zu dokumentieren und die entwickelten Ergebnisse für interessierte Carrera-Fahrer und technisch Interessierte zugänglich zu halten.
+
+Die Übertragung und Aufbereitung aller bisherigen Informationen, Dokumentationen und Materialien in dieses Repository wird noch einige Zeit in Anspruch nehmen. Es kann daher sein, dass zunächst noch nicht alle Informationen und Inhalte verfügbar sind. Das Repository wird nach und nach vervollständigt.
+
+Die vorhandene Software, Firmware und Dokumentation sollen damit auch in Zukunft verfügbar und nachvollziehbar bleiben.
+
+Vielen Dank an alle, die das Projekt begleitet, unterstützt und mit Ideen und Anregungen bereichert haben!
 
 [^1]: Carrera® ist ein Markenname der Stadlbauer Marketing + Vertrieb Ges.m.b.H. <https://carrera-toys.com/about>
