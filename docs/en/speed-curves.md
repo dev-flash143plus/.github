@@ -1,3 +1,4 @@
+[🇩🇪 Deutsch](../gaskurven.md) | [🇬🇧 English](../en/speed-curves.md)
 # What are throttle curves and what can I do with them?
 
 A user experience report by [go-digital-132](https://www.carrera-go.info/index.php?user/8085-go-digital-132/) from the carrera-go forum. Many thanks for sharing this!
